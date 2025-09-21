@@ -1,0 +1,4 @@
+requests
+pytest
+pre-commit
+black
